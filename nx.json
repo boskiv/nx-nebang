@@ -16,7 +16,12 @@
     },
     "admin-e2e": {
       "tags": [],
-      "implicitDependencies": ["admin"]
+      "implicitDependencies": [
+        "admin"
+      ]
+    },
+    "functions": {
+      "tags": []
     }
   }
 }
